@@ -1,0 +1,8 @@
+Max sequence length(used as window size during word2vec embedding):
+625
+
+
+total unique diagnoses:
+6604
+number of unique diagnoses that have frequency larger than 10:
+2726
